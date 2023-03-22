@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lluise.sudokufox" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Sudoku Fox</name>
+  <description>Complete sudoku game for sudoku lovers</description>
+  <author email="lluise@example.com" href="https://github.com/lluises">
+    LluisE
+  </author>
+  <content src="index.html" />
+  <allow-intent href="http://*/*" />
+  <allow-intent href="https://*/*" />
+
+  <platform name="android">
+    <!--
+        ldpi    : 36x36 px
+        mdpi    : 48x48 px
+        hdpi    : 72x72 px
+        xhdpi   : 96x96 px
+        xxhdpi  : 144x144 px
+        xxxhdpi : 192x192 px
+    -->
+    <icon src="assets/mdpi.png" density="mdpi" />
+    <icon src="assets/ldpi.png" density="ldpi" />
+    <icon src="assets/hdpi.png" density="hdpi" />
+    <icon src="assets/xhdpi.png" density="xhdpi" />
+    <icon src="assets/xxhdpi.png" density="xxhdpi" />
+    <icon src="assets/xxxhdpi.png" density="xxxhdpi" />
+  </platform>
+</widget>

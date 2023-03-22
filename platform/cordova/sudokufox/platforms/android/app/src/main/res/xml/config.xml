@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lluise.sudokufox" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Sudoku Fox</name>
+    <description>Complete sudoku game for sudoku lovers</description>
+    <author email="lluise@example.com" href="https://github.com/lluises">
+    LluisE
+  </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <icon density="mdpi" src="assets/mdpi.png" />
+    <icon density="ldpi" src="assets/ldpi.png" />
+    <icon density="hdpi" src="assets/hdpi.png" />
+    <icon density="xhdpi" src="assets/xhdpi.png" />
+    <icon density="xxhdpi" src="assets/xxhdpi.png" />
+    <icon density="xxxhdpi" src="assets/xxxhdpi.png" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>

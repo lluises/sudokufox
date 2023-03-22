@@ -1,0 +1,15 @@
+{
+  "name": "sudokufox.lluise",
+  "description": "Complete sudoku game for sudoku lovers",
+  "architecture": "@CLICK_ARCH@",
+  "title": "Sudoku Fox",
+  "hooks": {
+    "sudokufox": {
+      "apparmor": "sudokufox.apparmor",
+      "desktop":  "sudokufox.desktop"
+    }
+  },
+  "version": "1.0.0",
+  "maintainer": "LluisE <lluise@protonmail.com>",
+  "framework" : "@CLICK_FRAMEWORK@"
+}

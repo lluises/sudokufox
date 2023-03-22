@@ -1,0 +1,25 @@
+{
+  "name": "com.lluise.sudokufox",
+  "displayName": "Sudoku Fox",
+  "version": "1.0.0",
+  "description": "Complete sudoku game for sudoku lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "LluisE",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "cordova-android": "^10.1.2",
+    "cordova-electron": "^3.1.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "electron"
+    ]
+  }
+}

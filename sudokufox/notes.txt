@@ -1,0 +1,39 @@
+https://balendezai.com/building-sudoku-solver/
+https://github.com/qntm/base32768
+
+2
+
+346279851157846293982135746573468129428591637691327485865912374214753968739684512
+
+board = '602700008040098602090260043060000071000000000410000060820047010104530080900000000'
+console.log(board);
+z = Compressor.compress_sudoku(board)
+console.log(z);
+console.log(z.length);
+d = Compressor.decompress_sudoku(z)
+console.log('o', board);
+console.log('d', d.join(''));
+console.log(d);
+console.log(d.length);
+
+
+[Desktop Entry]
+Name=kiwix
+Comment=kiwix for Ubuntu Touch
+Exec=webapp-container $@ ./www/index.html
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./www/img/icons/kiwix_scalable.svg
+X-Ubuntu-Splash-Image=./www/img/icons/kiwix-splash-scalable.svg
+X-Ubuntu-Splash-Color=#888888
+
+
+https://stackoverflow.com/questions/50007055/fetch-request-to-local-file-not-working
+
+
+# Android thingies
+export ANDROID_SDK_ROOT=/opt/android-sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools/
+export PATH=$PATH:$ANDROID_SDK_ROOT/cmdline-tools/latest/bin/
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator/

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Sudoku Fox
+Exec=sudokufox %U
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+# X-Ubuntu-Splash-Image=assets/splash.png
+X-Ubuntu-Splash-Color=#FFFFFF
