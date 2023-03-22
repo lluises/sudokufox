@@ -1,6 +1,8 @@
 # SudokuFox
 
-Complete sudoku game for sudoku lovers
+![SudokuFox](fox.png)
+
+​Complete sudoku game for sudoku lovers
 
 ^.^
 
