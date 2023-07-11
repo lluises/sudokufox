@@ -18,6 +18,7 @@ UT_PLATFORM="$PLATFORM_PATH/ubuntu-touch"
 UT_ASSETS_PATH="assets"
 UT_WEB_PATH="www"
 [ "$UT_ARCH" = "" ] && UT_ARCH="arm64" # Default arquitecture if not in env
+export CLICKABLE_FRAMEWORK=ubuntu-sdk-20.04
 
 
 ### Web module #################################################################

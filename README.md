@@ -110,7 +110,7 @@ First and foremost, light a candle.
 Then, make sure to have [Apache Cordova](https://cordova.apache.org/) installed.
 You will also need to set up the [Android Platform for Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html).
 
-If you made it this far, you can already feel pround of yourself. Lets start building the apk:
+If you made it this far, you can already feel proud of yourself. Lets start building the apk:
 
 Run the automated script and hope for it to work
 

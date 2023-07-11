@@ -6,4 +6,4 @@ Complete sudoku game for sudoku lovers
 
 Copyright (C) 2023  LluisE
 
-Licensed under the MIT license
+Licensed under the MPL, see LICENCE
